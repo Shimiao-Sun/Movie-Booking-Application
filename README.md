@@ -1,4 +1,4 @@
-# Assignment2_SOFT2412
+# Movie Booking Application
 
 To make changes to the db, first navigate into `./app/assets/`. Then you should update `./db_init.sql` and `./db_populate.sql`. 
 
