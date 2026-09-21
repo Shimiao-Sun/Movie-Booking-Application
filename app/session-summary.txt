@@ -1,0 +1,13 @@
+movie               classification      showing_date        seat_location       account             
+
+your name           G                   2021-11-01          front               alex                
+your name           G                   2021-11-02          middle              alex                
+your name           G                   2021-11-03          rear                alex                
+your name           G                   2021-11-04          front               adam                
+your name           G                   2021-11-04          middle              adam                
+yuri on ice         PG                  2021-11-05          rear                shimiao             
+your name           G                   2021-11-03          front               hans                
+avatar              M                   2021-11-16          middle              hans                
+avatar              M                   2021-11-11          rear                hans                
+avatar              M                   2021-11-16          front               shimiao             
+avatar              M                   2021-11-11          middle              shimiao             

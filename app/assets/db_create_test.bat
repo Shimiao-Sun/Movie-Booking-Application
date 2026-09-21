@@ -1,0 +1,2 @@
+C:\Program Files\PostgreSQL\14\bin\psql.exe -h home.xsourse.cc -U postgres -d postgres -p 8083 -w -f db_init.sql
+C:\Program Files\PostgreSQL\14\bin\psql.exe -h home.xsourse.cc -U postgres -d postgres -p 8083 -w -f db_populate.sql

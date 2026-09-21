@@ -1,0 +1,8 @@
+id                  movie               classification      synopsis            director            actor_cast          cinema              showing_date        booked_seats        seats_total         price               screen_size         
+
+3                   your name           G                   body swapping       Makoto Shinkai      Ryunosuke Kamiki    hoits               2021-11-03          1                   20                  $50.00              Gold                
+2                   your name           G                   body swapping       Makoto Shinkai      Ryunosuke Kamiki    hoits               2021-11-02          1                   50                  $20.00              Silver              
+1                   your name           G                   body swapping       Makoto Shinkai      Ryunosuke Kamiki    hoits               2021-11-01          1                   100                 $10.00              Bronze              
+5                   your name           G                   body swapping       Makoto Shinkai      Ryunosuke Kamiki    evants              2021-11-03          1                   50                  $20.00              Silver              
+4                   your name           G                   body swapping       Makoto Shinkai      Ryunosuke Kamiki    evants              2021-11-04          2                   100                 $10.00              Bronze              
+6                   yuri on ice         PG                  figure skating      Sayo Yamamoto       Suwabe, Junichi     hoits               2021-11-05          1                   20                  $50.00              Gold                

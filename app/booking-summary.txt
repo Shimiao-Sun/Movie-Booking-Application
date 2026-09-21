@@ -1,0 +1,10 @@
+movie_session       booked              seats_total         available_seats     
+
+1                   1                   100                 99                  
+2                   1                   50                  49                  
+3                   1                   20                  19                  
+4                   2                   100                 98                  
+5                   1                   50                  49                  
+6                   1                   20                  19                  
+7                   2                   20                  18                  
+8                   2                   20                  18                  
